@@ -1,0 +1,22 @@
+{
+  "name": "angular-nmap",
+  "version": "1.0.0",
+  "description": "angular nmap viz. directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nmap",
+    "treemap",
+    "space-filling",
+    "visualization"
+  ],
+  "author": "Fabio Sikansi",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^4.0.0-alpha.5",
+    "d3": "^3.5.17"
+  }
+}
